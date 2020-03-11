@@ -1,0 +1,46 @@
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+i {
+    cursor: pointer;
+  }
+
+h2{
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+    margin-left: 130px;
+}
+
+.bg{
+  padding-top: 30px;
+  position: relative;
+  top: -45px;
+  height: 700px;
+  background-image: url(./bgg2.jpg);
+  background-repeat: round;
+}
+
+.sign_up{
+  margin-left: 200px;
+  border: 2px solid rgb(17, 6, 66);
+  width: 430px;
+  padding-left: 35px;
+  padding-top: 40px;
+  height: 430px;
+}
+
+button{
+  width: 100px;
+  margin-left: 120px;
+}
+
+.title{
+  margin-right: 30px;
+  width: 100px;
+}
+
+.content{
+  width: 200px;
+}
+

@@ -1,0 +1,83 @@
+.bg{
+   width: 1450px;
+    position: relative;
+    left: -320px;
+    top: -50px;
+    background-image: url(./bg.jpeg);
+    background-repeat:round;
+    opacity: 0.90;
+    height:900px;   
+}
+
+.bg2{
+    color: rgb(48, 47, 47);
+    padding-left:500px;
+    padding-top: 25px;
+    background-color: rgb(248, 247, 247);
+    position: relative;
+    top: -50px;
+    left:-320px;
+    width: 1450px;
+    height: 660px;
+}
+
+.d1{
+    padding-left: 0px;
+}
+
+.d2{
+    padding-left: 30px;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns: repeat(2, 50%);
+    width: 1400;
+    position: relative;
+    left: -300px;
+}
+
+.btn{
+    margin-top: 80px;
+    position: relative;
+    left: 80px;
+    font: 20px solid white;
+    color: white;
+    background-color: rgb(166, 199, 181);
+    border:2px solid gray;
+    width: 400px;
+}
+
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: 60px solid;
+    color: white;
+    padding-left:460px;
+    padding-top: 80px;
+}
+
+.title2{
+    font:39px solid;
+    color: gray;
+}
+
+.title3{
+    font: 25px solid;
+    color: rgb(255, 223, 167);
+    margin-top: 0px;
+}
+
+.content2{
+    font: 20px solid;
+    color: black;
+    position: relative;
+    top: -15px;
+    left: 4px;
+}
+
+.content{
+    color:white;
+    font: 40px solid;
+    padding-left: 20px;
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+.bg{
+    padding-top: 30px;
+  position: relative;
+  top: -50px;
+    height: 600px;
+    background-image: url(./bgg.jpg);
+    width: 100%;
+  background-repeat: round;
+}
+
+.login{
+    margin-top: 70px;
+    margin-left: 200px;
+    border: 2px solid rgb(17, 6, 66);
+    width: 400px;
+    padding-left: 35px;
+    padding-top: 40px;
+    height: 300px;
+}
+
+button{
+    width: 100px;
+    margin-left: 120px;
+}
+
+.title{
+    margin-right: 30px;
+    width: 100px;
+}
+
+.content{
+    width: 200px;
+}
+
+h2{
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+    margin-left: 130px;
+}
