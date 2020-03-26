@@ -1,5 +1,12 @@
 # PetApp
 
+This is a pet sitting and boarding website. The following functions are implemented:
+1. Users are able to browse all the pet sitting and boarding posts.
+2. Users are able to create an account and log in to view their own profiles.
+3. All the posts implement the CRUD operations.
+4. Users are able to add their pets, and the pet information also supports the CRUD operations.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
